@@ -12,7 +12,7 @@
 <br>
 
 - 🦉 一个专职前端工程师。不对哦，还搞搞.NET和Java
-- 💡 有为 [davinci](https://github.com/edp963/davinci) 做开源代码贡献
+- 💡 参与过开源项目 [davinci](https://github.com/edp963/davinci)
 - 🍃 有研究过 Vue2.0 源码及 Vue3.0 部分源码。
 - 📖 下班时间娱乐活动比较少，最近在重读第四版红宝书
 - 🎵 噢！我是一个Hiphop、EDM爱好者，也喜欢唱歌
